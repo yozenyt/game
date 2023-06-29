@@ -11,7 +11,7 @@ var currentstate;
 var gravity = 0.25;
 var velocity = 0;
 var position = 180;
-var rotation = 0;
+var rotation = 180;
 var jump = -4.6;
 var flyArea = $("#flyarea").height();
 
